@@ -1,0 +1,23 @@
+{
+  "name": "learn-jest-unit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirkononovich-main/learn-jest-unit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladimirkononovich-main/learn-jest-unit/issues"
+  },
+  "homepage": "https://github.com/vladimirkononovich-main/learn-jest-unit#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
