@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/vladimirkononovich-main/learn-jest-unit#readme",
   "devDependencies": {
+    "@types/jest": "^29.2.5",
     "jest": "^29.3.1"
   }
 }
